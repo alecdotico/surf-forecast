@@ -27,7 +27,7 @@ function loadWidgets() {
     iframe.className = 'surf-fc-i';
     iframe.scrolling = 'no';
     iframe.frameBorder = '0';
-    iframe.src = `https://www.surf-forecast.com/breaks/${mySpot.id}/forecasts/widget/m`
+    iframe.src = `https://www.surf-forecast.com/breaks/${mySpot.id}/forecasts/widget/a`
 
     spot.appendChild(iframe);
     spots.appendChild(spot);
