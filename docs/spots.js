@@ -1,5 +1,5 @@
 const mySpots = [
-  { id: 'playa-aguieira', distance: 30 },
+  { id: 'Playa-Aguieira', distance: 30 },
   { id: 'Playade-Fonforron', distance: 35 },
   { id: 'Playade-Barona', distance: 39 },
   { id: 'Playade-Rio-Sieira', distance: 48 },
@@ -27,7 +27,7 @@ function loadWidgets() {
     iframe.className = 'surf-fc-i';
     iframe.scrolling = 'no';
     iframe.frameBorder = '0';
-    iframe.src = `https://www.surf-forecast.com/breaks/${mySpot.id}/forecasts/widget/a`
+    iframe.src = `https://www.surf-forecast.com/breaks/${mySpot.id}/forecasts/widget/m`
 
     spot.appendChild(iframe);
     spots.appendChild(spot);
