@@ -1,0 +1,22 @@
+.spots {
+  display: flex;
+  flex-direction: column;
+}
+
+.beach {
+  display: flex;
+
+}
+
+.distance {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: 2em;
+  margin-right: 10px;
+}
+
+.distance span {
+  font-size: 0.5em;
+}
