@@ -64,9 +64,12 @@ const alexSpots = [
   { id: spots.PLAYADE_RIO_SIEIRA.id, distance: 48 },
   { id: spots.PLAYADE_LADEIRA.id, distance: 52 },
   { id: spots.PLAYADE_LANZADA.id, distance: 52 },
+  { id: spots.PLAYADE_MONTALBO.id, distance: 53 },
+  { id: spots.PLAYADE_BASTIAGUEIROS.id, distance: 55 },
   { id: spots.PLAYADE_LOURO.id, distance: 56 },
   { id: spots.PLAYADE_RAZO.id, distance: 60 },
   { id: spots.PLAYA_DE_SOESTO.id, distance: 60 },
+  { id: spots.PLAYADE_CAION.id, distance: 65 },
   { id: spots.NEMINA.id, distance: 69 },
 ];
 
