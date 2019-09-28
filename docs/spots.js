@@ -75,7 +75,7 @@ const alexSpots = [
 
 const spotsByUser = {
   alex: alexSpots,
-  isla: [{ id: spots.PLAYADE_RAZO.id }],
+  isla: Object.values(spots),
 };
 
 function getUserSpots() {
